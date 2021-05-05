@@ -24,7 +24,6 @@
 #include "obd2_openamp.h"
 #include <stdbool.h>
 
-// Test
 // Local def's
 static void SystemClock_Config(void);                                                    
 static void PeriphCommonClock_Config(void);
