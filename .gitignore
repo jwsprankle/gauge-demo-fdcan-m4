@@ -360,12 +360,8 @@ MigrationBackup/
 .ionide/
 
 # Fody - auto-generated XML schema
-<<<<<<< HEAD
 FodyWeavers.xsd
 /.visualgdb/CodeDB/gauge-demo-fdcan-m4.vgdbcmake-Debug-VisualGDB/AutoPCH
 /.visualgdb/CodeDB/gauge-demo-fdcan-m4.vgdbcmake-Debug-VisualGDB
 /.visualgdb/CodeDB/gauge-demo-fdcan-m4.vgdbcmake-Debug-VisualGDB.0001
 /gauge-demo-fdcan-m4/.visualgdb/VisualGDBCache/gauge-demo-fdcan-m4-Debug-VisualGDB
-=======
-FodyWeavers.xsd
->>>>>>> 094e763e3dbe1fee72891a11efbb549e7d8ca4b8
